@@ -1,7 +1,6 @@
 ---
   title: "Narodziny w USA w latach 2000-2014 - analiza eksploracyjna"
 author: "Aleksandra Jaworska"
-date: "czerwiec 2022 (ostatnia aktualizacja)"
 output:
   html_document:
   toc: yes
